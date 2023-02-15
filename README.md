@@ -20,5 +20,10 @@
   - TCP (Transmission Control Protocol) : 전송 제어 프로토콜. 클라이언트와 서버 간에 신뢰있게 안정적으로 순서대로 에러없이 주고 받을 수 있다.
   - IP (Internet Protocol)) : 인터넷 프로토콜. 네트워크 상의 컴퓨터 고유 주소이며, 총 4바이트로 되어 있다.
 ### [인터넷의 작동원리](https://developer.mozilla.org/ko/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
-![단일네트워크](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work/internet-schema-1.png)
-
+![단일네트워크](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work/internet-schema-1.png)   
+<br>
+예전에 두 개의 컴퓨터가 통신이 필요할 때, 유선 케이블을 이용해 두 개의 컴퓨터를 연결해 통신했었다.<br>
+하지만 여러 컴퓨터를 유선케이블로 하나하나 연결하는데엔 불편하고 한계가 생길 수 밖에 없다.<br><br>
+![여러컴퓨터라면](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work/internet-schema-2.png)   
+<br>
+이렇게 말이다.<br>
