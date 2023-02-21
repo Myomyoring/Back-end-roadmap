@@ -36,4 +36,6 @@ A컴퓨터와 B컴퓨터와 통신할 땐 C컴퓨터에 가지 않게 하면 단
 네트워크를 전화시설에 연결하게 되는데 그것을 인터넷 서비스 제공 업체 (Internet Service Provider, ISP)에 연결한다.<br>
 ![ISP](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work/internet-schema-7.png)<br>
 우리가 알고 있는 SKT, KT, LG U+에서 관리하게 된다.
+### [HTTP란?](https://ko.wikipedia.org/wiki/HTTP)
+- HyperText Transfer Protocol, 인터넷에서 데이터를 주고 받을 수 있는 프로토콜이다.
 
