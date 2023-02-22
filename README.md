@@ -43,6 +43,3 @@ A컴퓨터와 B컴퓨터와 통신할 땐 C컴퓨터에 가지 않게 하면 단
 - HTTP 프로토콜 기반으로 HTML로 작성된 하이퍼텍스트를 [웹브라우저](https://ko.wikipedia.org/wiki/%EC%9B%B9_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80)라는 응용프로그램으로 읽을 수 있게 하는 구성으로 되어있다.
 - [www(World Wide Web 월드와이드웹)](https://ko.wikipedia.org/wiki/%EC%9B%94%EB%93%9C_%EC%99%80%EC%9D%B4%EB%93%9C_%EC%9B%B9) : 인터넷에 연결된 컴퓨터를 통해 사람들이 정보를 공유할 수 있는 전 세계적인 정보공간이다. web은 거미줄처럼 엮인 정보공간을 뜻한다고 한다.
 ### 브라우저와 그 작동원리
-
-- 요청(Request)과 응답(Response)으로 구성되어있다. 주소에 \http://가 HTTP프로토콜을 이용해 정보를 교환하겠다는 표시이다.ㅈㅏㄱ동원리
-- 요청(Request)과 응답(Response)으로 구성되어있다. 주소에 \http://가 HTTP프로토콜을 이용해 정보를 교환하겠다는 표시이다.
